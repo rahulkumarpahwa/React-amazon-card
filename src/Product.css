@@ -1,0 +1,13 @@
+.Product {
+  border: 2px solid #e0c367;
+  border-radius: 14px;
+  margin-bottom: 15px;
+  /* padding: 0 10px 0 10px; */
+  margin-left: 15px;
+  width: 200px;
+  height: 162px;
+  background-image: url(./assets/background2.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
